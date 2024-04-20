@@ -1,0 +1,45 @@
+h1, h5 {
+  color: red;
+}
+
+/* NAVBAR INICIO */
+.cajalogo {
+  background-color: #fff;
+  display: flex;
+  justify-content: center;
+}
+
+.navbar {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+}
+
+.navbar-nav .nav-link {
+  color: black !important;
+}
+
+.navbar-brand {
+  color: black !important;
+  font-size: 35px;
+  margin-left: 80px;
+}
+
+.navbar-dark .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%280, 0, 0, 1.55%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+  border: none;
+}
+
+.secciones {
+  margin: 20px;
+}
+
+.oferta a.nav-link {
+  color: coral !important;
+}
+
+.collapse {
+  display: flex;
+  justify-content: center;
+}
+
+/* NAVBAR FIN *//*# sourceMappingURL=estilos.css.map */
