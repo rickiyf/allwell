@@ -1,0 +1,33 @@
+/* Categorias INICIO */
+/* Galeria INICIO */
+.h2cat {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .catgal {
+    padding-bottom: 30px;
+  }
+  
+  .catgal h5 {
+    margin: 0px;
+  }
+  
+  .card-img {
+    overflow: hidden !important;
+  }
+  
+  .card-img-top {
+    width: 100%;
+    height: 500px;
+    -o-object-fit: cover;
+       object-fit: cover;
+    transition: all 0.7s;
+  }
+  
+  .card:hover .card-img-top {
+    transform: scale(1.07);
+  }
+  
+  /* Galeria FIN */
+  /* Categoria FIN */
